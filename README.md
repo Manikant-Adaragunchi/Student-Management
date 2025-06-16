@@ -1,4 +1,4 @@
-# Student-Management
+# Student-Management - Lab Exam
 via Jira
 
 PROBLEM DEFINITION:
